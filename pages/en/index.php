@@ -31,7 +31,7 @@
       <div id="news">
       	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
 	<script src="/js/jquery.vticker.min.js" type="text/javascript"></script>
-	<em>The Latest from <a href="#">our Blog</a>:</em>
+	<em>The Latest from <a href="http://blog.openmeteofoundation.org" target="_blank">our Blog</a>:</em>
 	<div id="news-slider">
 	  <ul>
 <?php

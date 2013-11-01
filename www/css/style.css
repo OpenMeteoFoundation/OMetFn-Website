@@ -205,3 +205,6 @@ table tr:nth-of-type(2n), th {
     width: 73px;
     height: 73px;
 }
+img {
+  border: none;
+}
