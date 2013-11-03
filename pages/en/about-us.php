@@ -9,7 +9,7 @@
 <p>We believe making citizen, developers and academics stand together will push meteorology forward in the society, leading to new innovation and great improvements of everybody&#8217;s life. Weather is the key for safer and more sustainable societies.</p>
 <p>We know that enthusiasts joined by one idea could achieve more than large companies or public  agencies. Community-driven projects in cases like Linux, Wikipedia and OpenStreetMap shown us the way.</p>
 <h2>Activities</h2>
-<p>The Open Meteo Foundatio aims to support the global open meteorology community, being a home for projects of all kinds, investigating and exploring topics and innovation around weather.</p>
+<p>The Open Meteo Foundation aims to support the global open meteorology community, being a home for projects of all kinds, investigating and exploring topics and innovation around weather.</p>
 <p>Legacy OMetFn activity was to run high-res forecasts for the France and Alps regions.</p>
 <p>From here we want to move forward with new projects including :</p>
 <ul>

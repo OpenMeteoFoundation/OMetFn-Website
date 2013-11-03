@@ -16,7 +16,7 @@
 
 <p>We are working hard for enabling you to contribute more. However, the Open Meteo Foundation is very young, and we may still not had sufficient time for explaining all the ways you can get involved. In any case, do not hesitate to <a href="/contact">contact us</a>.</p>
 
-<h2 id="share-your-story">Start your own project</h2>
+<h2 id="project-proposal">Start your own project</h2>
 
 <p>Do you get an existing project or a new idea you want to explore ?</p>
 

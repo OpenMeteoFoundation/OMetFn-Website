@@ -4,7 +4,7 @@
       
 	<h2>
 	  <b>Weather is the key</b> to a safer and more sustainable world.<br>
-	  <b>Open is the way...</b>
+	  <b>Openness is the way...</b>
 	</h2>
 	<h3>
 	  We promote open data, open science, open technology and open knowledge for 

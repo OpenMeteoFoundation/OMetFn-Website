@@ -34,8 +34,8 @@
 	    <a href="/contact" title="Get in touch with us">Contact</a>
 	  </li>
 	  <li>
-	    <a href="http://twitter.com/OpenMeteo" title="Follow us on Twitter"><img src="/img/twitter.png" alt="Twitter"></a> 
-	    <a href="http://facebook.com/OpenMeteo" title="Follow us on Facebook"><img src="/img/facebook.png" alt="Facebook"></a>
+	    <a href="http://twitter.com/OpenMeteo" title="Follow us on Twitter" target="_blank"><img src="/img/twitter.png" alt="Twitter"></a> 
+	    <a href="http://facebook.com/OpenMeteo" title="Follow us on Facebook" target="_blank"><img src="/img/facebook.png" alt="Facebook"></a>
 	  </li>
 	</ul>
       </div>
