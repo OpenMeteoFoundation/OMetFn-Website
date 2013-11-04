@@ -4,7 +4,9 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" href="/css/style.css" type="text/css" charset="utf-8" />
   </head>
-  <body>
+  
+<!--[if IE ]><body class="ie"><![endif]-->
+<!--[if !IE]>--><body><!--<![endif]-->
     
     <a href="http://openmeteofoundation.org" title="Switch to English" id="lang"><img src="/img/flag_en.png"></a>
     <a href="/support-us" id="support-bar">Soutenez-nous !</a>
