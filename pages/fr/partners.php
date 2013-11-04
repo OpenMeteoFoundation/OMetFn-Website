@@ -20,15 +20,15 @@ Fortement impliquée dans la philosophie du libre et du collboratif, <strong><a 
 <td class="center"><a href="http://www.supair.com" target="_blank"><img alt="logo-supair" src="/files/logo-supair.png" style="width: 200px"/></a></td>
 <td>
 <p><strong><a href="http://www.supair.com" target="_blank">SUP&#8217;Air</a></strong>, entreprise Annécienne, est le leader mondial des sellettes de Parapente.</p>
-<p>Depuis 1982, SUP'Air est à la pointe de la technologie pour faire avancer le Vol Libre. Convaincus des bénéfices que nos données ouvertes apportent aux pilotes, <strong><a href="http://www.supair.com" target="_blank">SUP&#8217;Air</a> a financé une part importante de notre nouveau cluster HPC. Ce afin d'améliorer nos prévisions.</strong></p>
+<p>Depuis 1982, SUP'Air est à la pointe de la technologie pour faire avancer le Vol Libre. Convaincus des bénéfices que nos données ouvertes apportent aux pilotes, <strong><a href="http://www.supair.com" target="_blank">SUP&#8217;Air</a> a financé une part importante de notre nouveau cluster HPC. Ceci permet d'améliorer nos prévisions.</strong></p>
 </td>
 </tr>
 <tr>
 <td class="center"><a href="http://www.ffvl.fr" target="_blank"><img src="/files/logo-ffvl.png" alt="logo-ffvl" style="width: 100px"/></a></td>
 <td>
 <p><strong>La <a href="http://www.ffvl.fr" target="_blank">Fédération Française de Vol Libre</a></strong> rassemble plus de 40&nbsp;000 pilotes en 2012.</p>
-<p>Durant plus d'un an de partenariat, nous avons démontré l'intér&ecirc;t qu'apportaient les données ouvertes pour les sports aériens. Nous avons vu la sécurité des vols s'améliorer, gr&acirc;ce à une meilleure compréhension de l'environnement. Cela se repercute aussi sur la performance sportive en vue de battre de nouveaux records.</p>
-<p><strong>La <a href="http://www.ffvl.fr" target="_blank">FFVL</a> nous a soutenu financièrement, et nous permets de travailler d'une manière très rapprochée avec la communauté du Vol Libre.</strong></p>
+<p>Durant plus d'un an de partenariat, nous avons démontré l'intér&ecirc;t qu'apportent les données ouvertes pour les sports aériens. Nous avons vu la sécurité des vols s'améliorer, gr&acirc;ce à une meilleure compréhension de l'environnement. Cela se répercute aussi sur la performance sportive en vue de battre de nouveaux records.</p>
+<p><strong>La <a href="http://www.ffvl.fr" target="_blank">FFVL</a> nous a soutenu financièrement, et nous permet de travailler d'une manière très rapprochée avec la communauté du Vol Libre.</strong></p>
 </td>
 </tr>
 </table>
