@@ -208,3 +208,15 @@ table tr:nth-of-type(2n), th {
 img {
   border: none;
 }
+#lang {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 100;
+}
+#lang img {
+  border: 1px black solid;
+}
+#lang:hover img {
+  border: 1px white solid;
+}

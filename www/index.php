@@ -9,20 +9,29 @@ if ($_GET['page'] == '') {
 }
 
 $lang='en';
+if (substr($_SERVER['HTTP_HOST'], 0, 2) == 'fr') {
+  $lang='fr';
+}
 
 $page_dir="../pages/$lang/";
+$page_dir_en="../pages/en/";
 $page_file=$page_dir.$page.'.php';
+$page_file_en=$page_dir_en.$page.'.php';
 
 if (!file_exists($page_file)) {
-  $page='404';
-  $page_file=$page_dir.$page.'.php';
+  if (file_exists($page_file_en)) {
+    $page_file=$page_file_en;
+  } else {
+    $page='404';
+    $page_file=$page_dir.$page.'.php';
+  }
 }
 
 if ($page == '404') {
   header('HTTP/1.0 404 Not Found');
 }
 
-$cache_dir='../cache/';
+$cache_dir="../cache/$lang/";
 $php_cache_file=$cache_dir.$page.'.php';
 
 

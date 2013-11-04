@@ -5,7 +5,8 @@
     <link rel="stylesheet" href="/css/style.css" type="text/css" charset="utf-8" />
   </head>
   <body>
-    
+  
+    <a href="http://fr.openmeteofoundation.org" title="Version Française" id="lang"><img src="/img/flag_fr.png"></a>
     <a href="/support-us" id="support-bar"> Support us</a>
     
     <div id="header">

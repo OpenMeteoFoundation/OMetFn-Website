@@ -64,6 +64,34 @@
 <td align="left">Main Twitter account for Open Meteo Foundation</td>
 </tr>
 </table>
+<h3>Facebook</h3>
+<table>
+<thead>
+<tr>
+<th align="left">Page</th>
+<th align="left">Qui/Quoi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong><a href="http://facebook.com/OpenMeteo">OpenMeteo</a></strong></td>
+<td align="left">Main page for the Open Meteo Foundation</td>
+</tr>
+</table>
+<h3>Github</h3>
+<table>
+<thead>
+<tr>
+<th align="left">Page</th>
+<th align="left">Qui/Quoi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong><a href="http://github.com/OpenMeteoFoundation">OpenMeteoFoundation</a></strong></td>
+<td align="left">Main account for the Open Meteo Foundation</td>
+</tr>
+</table>
 <h2>IRC Channels</h2>
 <p>We are often on IRC and use it to discuss our different projects and activities in real-time. You are welcome to join us on our various channels via a standard IRC client or by using your browser via <a href="http://webchat.freenode.net/?channels=OpenMeteo">the freenode webchat client</a>.</p>
 <table>

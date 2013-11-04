@@ -1,7 +1,7 @@
 <!-- %TITLE%: "About us" -->
 
 <h1>About us</h1>
-<p>The Open Meteo Foundation (OMetFn) is a non-profit organization founded in 2012 and dedicated to promote open data, open knowledge and open science in the field of meteorology.</p>
+<p>The Open Meteo Foundation (OMetFn) is a non-profit organization founded in 2012 and dedicated to promote open data, open knowledge, open technology and open science in the field of meteorology.</p>
 <p>Born as <a title="Opening the Weather" href="http://blog.openmeteofoundation.org/2013/07/opening-weather.html" target="_blank">a personal attempt to get better weather info for paragliding</a>, the project grown since we realized there are bigger issues at stake.</p>
 <p>Thanks to great support from the initial free-flying community and <a title="Partners and Funders" href="/partners">our partners</a> we built foundation for a strong venture and demonstrated the need for open meteorological data. Now we are ready for action.</p>
 <h2>Our vision</h2>

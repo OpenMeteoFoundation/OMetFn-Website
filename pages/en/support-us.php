@@ -3,7 +3,7 @@
 <p>The Open Meteo Foundation is a non-profit organization. All our work is provided openly and for free. Your support helps us continue and expand our activities.</p>
 <p><a href="#why">More about why to support us »</a></p></blockquote>
 <h4>Contribute monthly with your credit card through PayPal.</h4>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_xclick-subscriptions" /><input type="hidden" name="business" value="2PH6MD3M2W45W" /><input type="hidden" name="lc" value="GB" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="no_shipping" value="2" /><input type="hidden" name="rm" value="1" /><input type="hidden" name="return" value="http://openmeteodata.org/index.php/donate/thank-you/" /><input type="hidden" name="src" value="1" /><input type="hidden" name="bn" value="PP-SubscriptionsBF:btn_subscribeCC_LG.gif:NonHostedGuest" /><input type="hidden" name="item_name" value="Monthly donation to the Open Meteo Foundation" /><input type="hidden" name="currency_code" value="EUR" /><input type="hidden" name="t3" value="M" /><input type="hidden" name="p3" value="1" />
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_xclick-subscriptions" /><input type="hidden" name="business" value="2PH6MD3M2W45W" /><input type="hidden" name="lc" value="GB" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="no_shipping" value="2" /><input type="hidden" name="rm" value="1" /><input type="hidden" name="return" value="http://openmeteofoundation.org/thank-you" /><input type="hidden" name="src" value="1" /><input type="hidden" name="bn" value="PP-SubscriptionsBF:btn_subscribeCC_LG.gif:NonHostedGuest" /><input type="hidden" name="item_name" value="Monthly donation to the Open Meteo Foundation" /><input type="hidden" name="currency_code" value="EUR" /><input type="hidden" name="t3" value="M" /><input type="hidden" name="p3" value="1" />
 <select name="a3">
 <option value="3.00">€ 3.00 a month</option>
 <option value="5.00">€ 5.00 a month</option>
@@ -45,7 +45,9 @@ Have your name publicly displayed on our supporters page.
 </form>
 <p><small>Your credit card donation will be processed by PayPal. The charge will appear as “Open Meteo Foundation” on your credit card statement.</small></p>
 <h5>Wire transfer</h5>
-<p>Bank Account Number : FR97 2004 1010 1709 5105 8S02 838<br />
+<p>
+Account Holder : OpenMeteoData<br />
+Bank Account Number : FR97 2004 1010 1709 5105 8S02 838<br />
 Bank Identifier Code : PSSTFRPPGRE<br />
 Bank Address : La Banque Postale &#8211; 38032 Grenoble CEDEX 1 &#8211; FRANCE</p>
 <h5>Cheque</h5>
