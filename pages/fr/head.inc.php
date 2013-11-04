@@ -31,14 +31,14 @@
 	    <a href="/projects" title="Découvrez nos projets">Projets</a>
 	  </li>
 	  <li>
-	    <a href="/get-involved" title="Apportez vos idées, et impliquez vous">Contribuez</a>
+	    <a href="/get-involved" title="Apportez vos idées et impliquez-vous">Contribuez</a>
 	  </li>
 	  <li>
-	    <a href="/contact" title="Contactez nous">Contact</a>
+	    <a href="/contact" title="Contactez-nous">Contact</a>
 	  </li>
 	  <li>
-	    <a href="http://twitter.com/OpenMeteo" title="Suivez nous sur Twitter" target="_blank"><img src="/img/twitter.png" alt="Twitter"></a> 
-	    <a href="http://facebook.com/OpenMeteo" title="Suivez nous sur Facebook" target="_blank"><img src="/img/facebook.png" alt="Facebook"></a>
+	    <a href="http://twitter.com/OpenMeteo" title="Suivez-nous sur Twitter" target="_blank"><img src="/img/twitter.png" alt="Twitter"></a> 
+	    <a href="http://facebook.com/OpenMeteo" title="Suivez-nous sur Facebook" target="_blank"><img src="/img/facebook.png" alt="Facebook"></a>
 	  </li>
 	</ul>
       </div>

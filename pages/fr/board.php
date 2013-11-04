@@ -14,7 +14,7 @@
 <h3 id="nicolas">Nicolas BALDECK</h3>
 <p><img src="/img/board/nbald.jpg" class="portrait"></p>
 <p>
-Nicolas est un amateur d'informatique et d'électronique, défendeur du libre.
+Nicolas est un amateur d'informatique et d'électronique, défenseur du libre.
 Moniteur de voile et parapentiste à ses heures perdus, il a toujours eu la météo au bout des doigts.
 Il est fondateur et président de l'Open Meteo Foundation, à laquelle il consacre un grosse part de son temps depuis Février 2012.</p>
 <h3 id="christian">Christian QUEST</h3>

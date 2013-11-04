@@ -1,8 +1,8 @@
 <!-- %TITLE%: "Contact" -->
 <h1>Contact</h1>
-<h2>Contactez nous par Email</h2>
+<h2>Contactez-nous par email</h2>
 
-<p><strong>Pour les question d'ordre général, envoyez un email à info[at]ometfn.org. Pour la presse : press[at]ometfn.org</strong></p>
+<p><strong>Pour les questions d'ordre général, envoyez un email à info[at]ometfn.org. Pour la presse : press[at]ometfn.org</strong></p>
 <p>Dans la mesure du possible, nous vous encourageons à engager la conversation sur notre <a href="http://forum.openmeteodata.org/" target="_blank">forum de discussion</a>. Cela permet de garder la conversation ouverte aux contributions et d'y impliquer la communauté. Néanmoins, si vous avez une question spécifique, vous pouvez nous contacter à l'une des adresses ci-dessous :</p>
 <table>
 <thead>
@@ -16,7 +16,7 @@
 <tr>
 <td align="left"><strong>Questions générales</strong></td>
 <td align="left">info [at] ometfn.org</td>
-<td align="left">Avant de contacter cette adresse, jettez un oeuil à la liste ci-dessous pour voir q'il n'y a pas une adresse plus directe pour votre demande. Cela nous aidera à traiter votre question plus rapidement ! Si vous voulez nous contacter à propos d'un projet ou d'un évenement en particulier, vous trouverez les instructions sur la page de celui-ci.</td>
+<td align="left">Avant de contacter cette adresse, jetez un œuil à la liste ci-dessous pour voir q'il n'y a pas une adresse plus directe pour votre demande. Cela nous aidera à traiter votre question plus rapidement ! Si vous voulez nous contacter à propos d'un projet ou d'un évenement en particulier, vous trouverez les instructions sur la page de celui-ci.</td>
 </tr>
 <tr>
 <td align="left"><strong>Presse</strong></td>
