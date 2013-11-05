@@ -13,7 +13,7 @@
 <p>If you have joined our network, we will use the information you have given us to try to connect you with the right parts of our network.</p>
 <p>If you have signed up as a community member then &#8211; thank you for doing so, we appreciate your support. As a community member you will be able to be more involved in our activities. We will use information you supply us to help you to be more involved. We may use your contact details to get in touch as part of that involvement.</p>
 <h2>Public data and publishing</h2>
-<p>Browsing this site doesn’t reveal your identity publicly, though see Private Logging later in this document for more information.</p>
+<p>Browsing this site doesn&#8217;t reveal your identity publicly, though see Private Logging later in this document for more information.</p>
 <h2>Author identification</h2>
 <p>When posting a comment or editing a page in the wiki, a name and email address may be required. You do not have to select your real name or use your regular email address. Your email address will not published. If you are concerned, you may wish to get a free email account or attempt to use a remail service.</p>
 <p>Page edits, comments, trackbacks, and pingbacks and other activity on our websites may be identified by your IP address. These numbers could potentially be traceable to identifying information about you, whether it is your home ISP or the University or Work account where the IP address is registered. Your IP address could potentially be used in conjunction with other data to identify you.</p>
@@ -28,7 +28,7 @@ You may wish to clear these cookies and the browser cache if you wish to refrain
 <h2>Private logging</h2>
 <p>Any time you visit a page on the internet, you send quite a bit of information to the server. The webservers that host this site maintain access logs with the information that you send. This information is used to provide site statistics and to get an idea of popular pages and what sites link here. We do not intend to use these logs to identify legitimate users.</p>
 <p>The data logged may be used by us to solve technical problems with the site and, in cases of abuse of this site, to investigate the abuse.</p>
-<p>We also use web analytics services to get a general idea of the kinds of traffic our websites get in order to provide better services and to set benchmarks for how we are doing in meeting the OMetFn’s goals.</p>
+<p>We also use web analytics services to get a general idea of the kinds of traffic our websites get in order to provide better services and to set benchmarks for how we are doing in meeting the OMetFn&#8217;s goals.</p>
 <p>Again, if you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.</p>
 <h2>Data release policy</h2>
 <p>Our policy is only to release the data we collect in the following circumstances:</p>
@@ -36,7 +36,7 @@ You may wish to clear these cookies and the browser cache if you wish to refrain
 <li>As required by law, such as in response to a valid request from law enforcement.</li>
 <li>To designated third parties to resolve or investigate abuse complaints.</li>
 <li>When the information is related to spiders or bots, usually when investigating technical issues.</li>
-<li>For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user’s Internet Service Provider.</li>
+<li>For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user&#8217;s Internet Service Provider.</li>
 <li>If necessary to defend legal claims against us by third parties.</li>
 <li>When we deem it necessary to protect the property or rights of the user community, or this website.</li>
 </ul>
