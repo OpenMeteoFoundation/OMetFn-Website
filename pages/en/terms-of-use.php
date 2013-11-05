@@ -27,7 +27,7 @@
 <li>try to access our systems in a way other than those advertised by us and, in particular, to use a web crawler that does not respect the robots exclusion policy.</li>
 </ul>
 <h3><span id="other-websites">Other websites</span></h3>
-<p>Some of our activities are carried out on web platforms provided by third parties. For example the source code for our softwares is hosted on github. If you make use of any service where that is the case, you are responsible for complying with any terms of service of the third party platform.</p>
+<p>Some of our activities are carried out on web platforms provided by third parties. For example the source code for our software is hosted on github. If you make use of any service where that is the case, you are responsible for complying with any terms of service of the third party platform.</p>
 <h3><span id="accounts">Accounts</span></h3>
 <p>Some of our services require you to create an account in order to make certain, or any, use of the service. All our accounts are subject to the following rules.</p>
 <h4><span id="rules-for-our-accounts">Rules for our accounts</span></h4>
