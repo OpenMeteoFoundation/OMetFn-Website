@@ -1,6 +1,6 @@
 <!-- %TITLE%: "Conseil d'Administration" -->
 <h1>Conseil d'Administration</h1>
-<p>Le Conseil d'Administration dirige l'Open Meteo Foundation dans son ensemble. Pour plus d'informations sur la gestion et les différents rapports, voyez <a href="http://openmeteodata.org/index.php/governance/" title="Governance">notre page Administration</a>.</p>
+<p>Le Conseil d'Administration dirige l'Open Meteo Foundation dans son ensemble. Pour plus d'information sur la gestion et les différents rapports, voyez <a href="http://openmeteodata.org/index.php/governance/" title="Governance">notre page Administration</a>.</p>
 <ul>
 <li><a href="#nicolas">Nicolas BALDECK</a></li>
 <li><a href="#christian">Christian QUEST</a></li>
@@ -14,9 +14,9 @@
 <h3 id="nicolas">Nicolas BALDECK</h3>
 <p><img src="/img/board/nbald.jpg" class="portrait"></p>
 <p>
-Nicolas est un amateur d'informatique et d'électronique, défendeur du libre.
-Moniteur de voile et parapentiste à ses heures perdus, il a toujours eu la météo au bout des doigts.
-Il est fondateur et président de l'Open Meteo Foundation, à laquelle il consacre un grosse part de son temps depuis Février 2012.</p>
+Nicolas est un amateur d'informatique et d'électronique, défenseur du libre.
+Moniteur de voile et parapentiste à ses heures perdues, il a toujours eu la météo au bout des doigts.
+Il est fondateur et président de l'Open Meteo Foundation, à laquelle il consacre une grosse part de son temps depuis Février 2012.</p>
 <h3 id="christian">Christian QUEST</h3>
 <p><img src="/img/board/cquest.jpg" class="portrait"></p>
 <h3 id="olivier">Olivier BRES</h3>
