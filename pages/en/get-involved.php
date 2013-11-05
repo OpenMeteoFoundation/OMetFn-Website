@@ -9,7 +9,7 @@
 
 <h2>Participate to an existing project</h2>
 
-<p>On every project website, you will find detailled instructions about how to contribute.</p>
+<p>On every project website, you will find detailed instructions about how to contribute.</p>
 
 <p>See the list of our activities on our <a href="/projects">Projects page</a>.</p>
 
