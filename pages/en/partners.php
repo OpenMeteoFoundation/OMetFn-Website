@@ -9,11 +9,11 @@
   <img alt="logo-teclib" src="/files/logo-teclib.png" style="width: 200px"/></a>
 </td>
 <td>
-<p><strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a></strong> is an IT company located in Paris, Chartres, Caen, Montpellier and  Colmar. They are specialized in deployment and support of open-source solutions.</p>
+<p><strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a></strong> is an IT company located in Paris, Chartres, Caen, Montpellier and Colmar. They are specialized in deployment and support of open-source solutions.</p>
 <p>
 As proud supporter of the open world, <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> provides us datacenter space and bandwidth for our computing infrastructure.</strong>
 </p>
-<p>Teclib' is also employing OMetFn president on a fitted part time job, which allows him to dedicate a lot of time to the Foundation and to ensure a durable motivation.</p>
+<p>Teclib is also employing OMetFn president on a fitted part time job, which allows him to dedicate a lot of time to the Foundation and to ensure a durable motivation.</p>
 </tr>
 </tr>
 <tr>

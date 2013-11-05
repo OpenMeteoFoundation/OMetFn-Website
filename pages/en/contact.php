@@ -15,27 +15,27 @@
 <tr>
 <td align="left"><strong>General enquiries</strong></td>
 <td align="left">info [at] ometfn.org</td>
-<td align="left">Before emailing the email address below, please scroll down to and check whether there is a more direct contact point for your query. This will help you get an answer much faster! If you’d like to get in touch about a specific project, event or activity, please refer to the page for that project.</td>
+<td align="left">Before emailing the email address below, please scroll down to and check whether there is a more direct contact point for your query. This will help you get an answer much faster! If you&#8217;d like to get in touch about a specific project, event or activity, please refer to the page for that project.</td>
 </tr>
 <tr>
 <td align="left"><strong>Press enquiries</strong></td>
 <td align="left">press [at] ometfn.org</td>
-<td align="left">For all press enquiries. If you’d like to get in touch about a specific project, event or activity, please refer to the page for that project.</td>
+<td align="left">For all press enquiries. If you&#8217;d like to get in touch about a specific project, event or activity, please refer to the page for that project.</td>
 </tr>
 <tr>
 <td align="left"><strong>General discussion</strong></td>
 <td align="left"><a href="http://forum.openmeteodata.org" target="_blank">discussion board</a></td>
-<td align="left">If you have an idea, a comment or something you’d like to discuss, we’d encourage you to join and write to our public <a href="http://forum.openmeteodata.org" target="_blank">disussion board</a>.</td>
+<td align="left">If you have an idea, a comment or something you&#8217;d like to discuss, we&#8217;d encourage you to join and write to our public <a href="http://forum.openmeteodata.org" target="_blank">disussion board</a>.</td>
 </tr>
 <tr>
 <td align="left"><strong>Speaking enquiries</strong></td>
 <td align="left">speakers [at] ometfn.org</td>
-<td align="left">If you’re interested in having a representative from OpenMeteoData speaking or participating in an event, please email this address.</td>
+<td align="left">If you&#8217;re interested in having a representative from OpenMeteoData speaking or participating in an event, please email this address.</td>
 </tr>
 <tr>
 <td align="left"><strong>Blog editor</strong></td>
 <td align="left">blog [at] ometfn.org</td>
-<td align="left">If you’re interested in writing something for the OpenMeteoData blog, please email this address.</td>
+<td align="left">If you&#8217;re interested in writing something for the OpenMeteoData blog, please email this address.</td>
 </tr>
 <tr>
 <td align="left"><strong>Get Involved</strong></td>
@@ -69,7 +69,7 @@
 <thead>
 <tr>
 <th align="left">Page</th>
-<th align="left">Qui/Quoi</th>
+<th align="left">Who/what</th>
 </tr>
 </thead>
 <tbody>
@@ -83,7 +83,7 @@
 <thead>
 <tr>
 <th align="left">Page</th>
-<th align="left">Qui/Quoi</th>
+<th align="left">Who/what</th>
 </tr>
 </thead>
 <tbody>
@@ -125,7 +125,7 @@
 </tr>
 <tr>
 <td align="left"><strong>Open Meteo Foundation</strong></td>
-<td align="left">19 allée Jean Wiener, 38400 Saint-Martin-d&#8217;Hères, FRANCE</td>
+<td align="left">19 all&eacute;e Jean Wiener, 38400 Saint-Martin-d&#8217;H&egrave;res, FRANCE</td>
 <td align="left">Registered office.</td>
 </tr>
 </tbody>
