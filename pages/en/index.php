@@ -76,7 +76,7 @@ if (filemtime($blog_cache)+3600 > time()) {
       </div>
       
       <div id="footer">
-	<h4>More :</h4>
+	<h4>More:</h4>
 	<ul>
 	  <li><a href="/partners">Partners</a></li>
 	  <li><a href="/governance">Governance</a></li>

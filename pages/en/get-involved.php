@@ -18,11 +18,11 @@
 
 <h2 id="project-proposal">Start your own project</h2>
 
-<p>Do you get an existing project or a new idea you want to explore ?</p>
+<p>Do you get an existing project or a new idea you want to explore?</p>
 
 <p>We can help you develop your project, bringing ressources such as computing power, hosting, archiving. You will also benefit from our social network.</p>
 
-<p>We accept projects following those simple criterias :</p>
+<p>We accept projects following those simple criterias:</p>
 <ul>
   <li>Open Data and Content: data and content, or any other kind of resources, produced by the project will be openly licensed in a way that is compatible with the Open Definition.</li>
   <li>Free/Open Source Software: software created by the project will be openly licensed (i.e. in conformance with the OSI Open Source Definition)</li>
@@ -32,7 +32,7 @@
 <p>To discuss your project with us, send an email to getinvolved[a]ometfn.org .</p>
 
 <h2 id="share-your-story">Share your story</h2>
-<p>Do you have an interesting story related to meteorology and openness ?</p>
-<p>Did you face problems getting weather data ?</p>
+<p>Do you have an interesting story related to meteorology and openness?</p>
+<p>Did you face problems getting weather data?</p>
 
 <p>We encourage you to share your story to the world. Send us an email to blog[a]ometfn.org . We will be happy to publish it on <a href="http://blog.openmeteofoundation.org" target="_blank">our blog</a>.</p>
