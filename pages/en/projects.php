@@ -63,7 +63,7 @@
 </ul>-->
 <hr style="visibility: hidden; margin-top: 60px;">
 
-<h2>We encourage you the join the move</h2>
+<h2>We encourage you to join the move</h2>
 <ul class="buttons">
   <li><a href="/get-involved#share-your-story">Share your story</a></li>
   <li><a href="/get-involved#project-proposal">Make a project proposal</a></li>
