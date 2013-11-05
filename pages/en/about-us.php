@@ -7,7 +7,7 @@
 <h2>Our vision</h2>
 <p>National weather services and private companies have done great work for more than a century to make better use of our meteorological knowledge. However, large gains are still to be made.</p>
 <p>We believe making citizen, developers and academics stand together will push meteorology forward in the society, leading to new innovation and great improvements of everybody&#8217;s life. Weather is the key for safer and more sustainable societies.</p>
-<p>We know that enthusiasts joined by one idea could achieve more than large companies or public  agencies. Community-driven projects in cases like Linux, Wikipedia and OpenStreetMap shown us the way.</p>
+<p>We know that enthusiasts joined by one idea could achieve more than large companies or public agencies. Community-driven projects in cases like Linux, Wikipedia and OpenStreetMap shown us the way.</p>
 <h2>Activities</h2>
 <p>The Open Meteo Foundation aims to support the global open meteorology community, being a home for projects of all kinds, investigating and exploring topics and innovation around weather.</p>
 <p>Legacy OMetFn activity was to run high-res forecasts for the France and Alps regions.</p>
@@ -21,7 +21,7 @@
 </ul>
 <p>Many of our activities are detailed on our <a title="Projects" href="/projects">Projects</a> page.<strong><br />
 </strong></p>
-<p>If you got an idea you want to share, see our <a title="Project proposal" href="/get-involved#project-proposal">Project Proposal</a> page. <strong><br />
+<p>If you got an idea you want to share, see our <a title="Project proposal" href="/get-involved#project-proposal">Project Proposal</a> page.<strong><br />
 </strong></p>
 <h2>Governance</h2>
 <p>Read about our governance, board of directors, annual reports and accounts on our <a title="Governance" href="/governance">Board and governance</a> page.</p>
