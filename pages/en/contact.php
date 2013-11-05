@@ -69,7 +69,7 @@
 <thead>
 <tr>
 <th align="left">Page</th>
-<th align="left">Qui/Quoi</th>
+<th align="left">Who/what</th>
 </tr>
 </thead>
 <tbody>
@@ -83,7 +83,7 @@
 <thead>
 <tr>
 <th align="left">Page</th>
-<th align="left">Qui/Quoi</th>
+<th align="left">Who/what</th>
 </tr>
 </thead>
 <tbody>
