@@ -19,7 +19,7 @@
 	    <a href="/projects">Discover our projects</a>
 	  </li>
 	  <li>
-	    <a href="/get-involved">Bring your ideas !</a>
+	    <a href="/get-involved">Bring your ideas!</a>
 	  </li>
 	  <li>
 	    <a href="/contact">Get in touch</a>
