@@ -3,7 +3,7 @@
       <div id="intro">
       
 	<h2>
-	  La météo est la clé d'une société plus sure et plus durable.<br>
+	  La météo est la clé d'une société plus sûre et plus durable.<br>
 	  La route est ouverte...
 	</h2>
 	<h3>
@@ -13,7 +13,7 @@
 	
 	<ul class="buttons">
 	  <li>
-	    <a href="/about-us">Qui sommes nous ?</a>
+	    <a href="/about-us">Qui sommes-nous ?</a>
 	  </li>
 	  <li>
 	    <a href="/projects">Découvrez nos projets</a>
@@ -22,7 +22,7 @@
 	    <a href="/get-involved">Apportez vos idées</a>
 	  </li>
 	  <li>
-	    <a href="/contact">Contactez nous</a>
+	    <a href="/contact">Contactez-nous</a>
 	  </li>
 	</ul>
 	

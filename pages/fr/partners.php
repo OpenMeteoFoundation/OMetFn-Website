@@ -11,7 +11,7 @@
 <td>
 <p><strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a></strong> est une SS2I située à Paris, Chartres, Caen, Montpellier et  Colmar. Elle est experte en intégration de logiciels libres pour les entreprises.</p>
 <p>
-Fortement impliquée dans la philosophie du libre et du collboratif, <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> nous fournit l'espace en datacenter, la bande passante et l'electricité pour notre infrastructure de calcul.</strong>
+Fortement impliquée dans la philosophie du libre et du collaboratif, <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> nous fournit l'espace en datacenter, la bande passante et l'électricité pour notre infrastructure de calcul.</strong>
 </p>
 <p>Teclib' emploie aussi le président de l'OMetFn dans le cadre d'un temps-partiel spécialement aménagé, lui permettant de dédier une grosse part de son temps à la fondation, tout en assurant un engagement durable dans le projet.</p>
 </tr>
@@ -27,8 +27,10 @@ Fortement impliquée dans la philosophie du libre et du collboratif, <strong><a 
 <td class="center"><a href="http://www.ffvl.fr" target="_blank"><img src="/files/logo-ffvl.png" alt="logo-ffvl" style="width: 100px"/></a></td>
 <td>
 <p><strong>La <a href="http://www.ffvl.fr" target="_blank">Fédération Française de Vol Libre</a></strong> rassemble plus de 40&nbsp;000 pilotes en 2012.</p>
-<p>Durant plus d'un an de partenariat, nous avons démontré l'intér&ecirc;t qu'apportent les données ouvertes pour les sports aériens. Nous avons vu la sécurité des vols s'améliorer, gr&acirc;ce à une meilleure compréhension de l'environnement. Cela se répercute aussi sur la performance sportive en vue de battre de nouveaux records.</p>
-<p><strong>La <a href="http://www.ffvl.fr" target="_blank">FFVL</a> nous a soutenu financièrement, et nous permet de travailler d'une manière très rapprochée avec la communauté du Vol Libre.</strong></p>
+
+<p>Durant plus d'un an de partenariat, nous avons démontré l'intér&ecirc;t qu'apportaient les données ouvertes pour les sports aériens. Nous avons vu la sécurité des vols s'améliorer, gr&acirc;ce à une meilleure compréhension de l'environnement. Cela se répercute aussi sur la performance sportive en vue de battre de nouveaux records.</p>
+<p><strong>La <a href="http://www.ffvl.fr" target="_blank">FFVL</a> nous a soutenu financièrement et nous permet de travailler d'une manière très rapprochée avec la communauté du Vol Libre.</strong></p>
+
 </td>
 </tr>
 </table>

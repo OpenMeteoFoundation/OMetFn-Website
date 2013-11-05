@@ -1,12 +1,14 @@
 <!-- %TITLE%: "Gestion" -->
 <h1>Gestion</h1>
-<h2>A propos de l'Open Meteo Foundation</h2>
-<p>Notre page <a title="About us" href="/about-us">À propos</a> donne un aperçu de l'OMetFn, notre vision, le fonctionnement de la communauté et nos informations administratives.</p>
+
+<h2>À propos de l'Open Meteo Foundation</h2>
+<p>Notre page <a title="About us" href="/about-us">À propos</a> donne un aperçu de l'OMetFn, notre vision, le fonctionement de la communauté et nos informations administatives.</p>
 
 <h2>Fonctionnement de la gestion</h2>
-<p>Nous espérons créer différents groupes de travail supervisés par l'équide de l'OMetFn.</p>
+<p>Nous espérons créer différents groupes de travails supervisés par l'équide de l'OMetFn.</p>
 
-<p><a title="Board of Directors" href="/board/#nicolas">Nicolas BALDECK</a> (Président et Fondateur) gère le fonctionnement général et la stratégie de l'Open Meteo Foundation. Il rend des comptes et consulte le <a title="Board of Directors" href="/board">conseil d'administration</a> qui est responsable de l'intégrité financière et légale de l'association.</p>
+<p><a title="Board of Directors" href="/board/#nicolas">Nicolas BALDECK</a> (Président et Fondateur) gère le fonctionnement général et la stratégie de l'Open Meteo Foudation. Il rend des comptes et consulte le <a title="Board of Directors" href="/board">conseil d'administration</a> qui est responsable de l'intégrité financière et légale de l'association.</p>
+
 <p>Nous prévoyons d'avoir une commission scientifique qui assurera de la cohérence et de la rigueur du projet.</p>
 
 <h2>Réunions</h2>

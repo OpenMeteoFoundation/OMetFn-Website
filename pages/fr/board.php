@@ -16,7 +16,7 @@
 <p>
 Nicolas est un amateur d'informatique et d'électronique, défenseur du libre.
 Moniteur de voile et parapentiste à ses heures perdues, il a toujours eu la météo au bout des doigts.
-Il est fondateur et président de l'Open Meteo Foundation, à laquelle il consacre une grosse part de son temps depuis Février 2012.</p>
+Il est fondateur et président de l'Open Meteo Foundation, à laquelle il consacre un grosse part de son temps depuis Février 2012.</p>
 <h3 id="christian">Christian QUEST</h3>
 <p><img src="/img/board/cquest.jpg" class="portrait"></p>
 <h3 id="olivier">Olivier BRES</h3>
