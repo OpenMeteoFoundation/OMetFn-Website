@@ -52,13 +52,19 @@
 <h3><span id="paid-for-services">Paid-for services</span></h3>
 <p>Any payment you have agreed to make to us is subject to any applicable taxation or similar financial imposition. You are responsible for paying any additional sum imposed in this way. For example, many of our services are subject to Value-Added Tax, which you are required to pay to us.</p>
 <p>If you have agreed to pay a sum at regular intervals (&#8220;payment periods&#8221;) then:
-* we will only terminate the service by giving notice of at least one payment period in length;
-* we may increase the price for the service by giving you at least one payment period&#8217;s notice of the new price</p>
+<ul>
+<li>we will only terminate the service by giving notice of at least one payment period in length;</li>
+<li>we may increase the price for the service by giving you at least one payment period&#8217;s notice of the new price</li>
+</ul>
+</p>
 <p>You may terminate a paid-for service at any time by giving us notice of termination. Any payment you have already made to us will not be repayable, but we will continue to supply the service &#8211; unless you ask us otherwise &#8211; until the next payment date.</p>
 <p>We may suspend a paid for service if we reasonably believe:
-* it is necessary for us to do so in order to prevent any unlawful activity;
-* you have breached this agreement in a sufficiently serious way to justify suspending the service in order to prevent that breach
-* you have failed to pay us any sum of money you owe</p>
+<ul>
+<li>it is necessary for us to do so in order to prevent any unlawful activity;</li>
+<li>you have breached this agreement in a sufficiently serious way to justify suspending the service in order to prevent that breach</li>
+<li>you have failed to pay us any sum of money you owe</li>
+</ul>
+</p>
 <p>If we do suspend a service for any of the above reasons we will take all reasonable steps to inform you promptly of what we have done and we will lift the suspension as soon as we are satisfied that the reason for the suspension no longer applies.</p>
 <h3><span id="liability">Liability</span></h3>
 <h4><span id="indemnities-8211-where-you-may-owe-us">Indemnities &#8211; where you may owe us</span></h4>
@@ -69,8 +75,11 @@ If your breach causes you to be sued by someone else, you will not sue us for an
 <p>All exclusions of liability are only in so far as we are allowed to do so by whatever law applies to the situation. For example, the law of France prevents us from excluding our liability for any personal injury or death caused by our negligence. We do not exclude such liability.</p>
 <p>We will not be liable for any damage that was not reasonably foreseeable at the time we made this agreement.</p>
 <p>Any liability to you is limited by the amount you have paid us for a service, where:
-* our liability is zero for a free service
-* where you make periodic payments, our liability is limited to the value of the last payment you paid us.</p>
+<ul>
+<li>our liability is zero for a free service</li>
+<li>where you make periodic payments, our liability is limited to the value of the last payment you paid us.</li>
+</ul>
+</p>
 <p>We are not liable for any loss which is indirect or consequential. That includes any loss of business or profit.</p>
 <p>We exclude, in so far as we are allowed, any warranties that would be implied by law.</p>
 <h3><span id="general-conditions">General conditions</span></h3>
