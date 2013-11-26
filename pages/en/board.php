@@ -13,7 +13,7 @@
 </ul>
 <h3 id="nicolas">Nicolas BALDECK</h3>
 <p><img src="/img/board/nbald.jpg" class="portrait"></p>
-<p>Nicolas is a computer and electronic enthusiast, advocate of free software and openness. As a windsurf instructor and paragliding pilot, he always been touching the weather. He is founder and president of the Open Meteo Foundation. He dedicates a large share of its free time to the project since February 2012.</p>
+<p>Nicolas is a computer and electronic enthusiast, advocate of free software and openness. As a windsurf instructor and paragliding pilot, he always been touching the weather. He is founder and president of the Open Meteo Foundation. He works full time on the project since February 2012.</p>
 <h3 id="christian">Christian QUEST</h3>
 <p><img src="/img/board/cquest.jpg" class="portrait"></p>
 <h3 id="olivier">Olivier BRES</h3>

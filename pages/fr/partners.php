@@ -13,7 +13,6 @@
 <p>
 Fortement impliquée dans la philosophie du libre et du collaboratif, <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> nous fournit l'espace en datacenter, la bande passante et l'électricité pour notre infrastructure de calcul.</strong>
 </p>
-<p>Teclib' emploie aussi le président de l'OMetFn dans le cadre d'un temps-partiel spécialement aménagé, lui permettant de dédier une grosse part de son temps à la fondation, tout en assurant un engagement durable dans le projet.</p>
 </tr>
 </tr>
 <tr>
