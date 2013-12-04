@@ -13,6 +13,15 @@ if (substr($_SERVER['HTTP_HOST'], 0, 2) == 'fr') {
   $lang='fr';
 }
 
+// temp dataconnexions
+$cache_dir="../cache/$lang/";
+$php_cache_file=$cache_dir.$page.'.php';
+if (file_exists($php_cache_file)) {
+  include($php_cache_file);
+  exit();
+}
+//---------------------------
+
 $page_dir="../pages/$lang/";
 $page_dir_en="../pages/en/";
 $page_file=$page_dir.$page.'.php';
