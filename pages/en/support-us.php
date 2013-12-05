@@ -48,7 +48,7 @@ Have your name publicly displayed on our supporters page.
 <p>The Open Meteo Foundation accepts BitCoin donation.</p>
 <p>BitCoin Address : <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
 <p><img src="/img/bitcoin.png" alt="1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ"></p>
-<p><i>Since BitCoin have no legal statut, we cannot deliver fiscal receipt.</i></p>
+<p><i>Since BitCoin have no legal status, we cannot deliver fiscal receipt.</i></p>
 <h5>Wire transfer</h5>
 <p>
 Account Holder: OpenMeteoData<br />

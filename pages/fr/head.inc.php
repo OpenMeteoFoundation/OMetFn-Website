@@ -8,7 +8,7 @@
 <!--[if IE ]><body class="ie"><![endif]-->
 <!--[if !IE]>--><body><!--<![endif]-->
     
-    <a href="http://openmeteofoundation.org" title="Switch to English" id="lang"><img src="/img/flag_en.png"></a>
+    <a href="http://openmeteofoundation.org/<?php echo $page; ?>" title="Switch to English" id="lang"><img src="/img/flag_en.png"></a>
     <a href="/support-us" id="support-bar">Soutenez-nous !</a>
     
     <div id="header">
