@@ -45,18 +45,24 @@ Faire apparaître mon nom publiquement sur la liste des donateurs.
 <label><input type="checkbox" name="os3" value="French company" />  Je suis une entreprise Française. Je souhaite un reçu fiscal, pour récupérer jusqu'à 60% du don en crédit d'impôt.</label><!--<a title="Tax refunds" href="http://openmeteodata.org/index.php/donate/tax-refunds/" target="_blank">Learn more about tax refunds&#8230;</a>--></span></p>
 </form>
 <p><small>Votre don par carte bancaire sera traité par PayPal. L'opération sera libellée « Open Meteo Foundation » sur votre relevé de compte.</small></p>
-<h5>Bitcoin</h5>
-<p>L'Open Meteo Foundation accepte les donations en BitCoin.</p>
-<p>Adresse BitCoin: <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
-<p><img src="/img/bitcoin.png" alt="1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ"></p>
-<p><i>Le BitCoin n'ayant pas de status légal, nous ne  pouvons délivrer de reçu fiscaux si vous faites un don par cette voie.</i></p>
-<h5>Virement</h5>
+
+<h4>Chèque</h4>
+<p>Vous pouvez envoyer un chèque à : <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
+
+
+<h4>Virement</h4>
 <p>Bénéficiaire : OpenMeteoData<br />
 Numéro de compte : FR97 2004 1010 1709 5105 8S02 838<br />
 Code BIC : PSSTFRPPGRE<br />
 Adresse de la banque : La Banque Postale &#8211; 38032 Grenoble CEDEX 1 &#8211; FRANCE</p>
-<h5>Chèque</h5>
-<p>Vous pouvez envoyer un chèque à : <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
+
+<h4>BitCoin</h4>
+<p>L'Open Meteo Foundation accepte les donations en BitCoin.</p>
+<p>Adresse BitCoin: <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
+<p><img src="/img/bitcoin.png" alt="1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ"></p>
+<p><i>Le BitCoin n'ayant pas de status légal, nous ne  pouvons délivrer de reçu fiscaux si vous faites un don par cette voie.</i></p>
+
+
 <h3 id="why">Pourquoi nous soutenir ?</h3>
 <p>L'Open Meteo Foundation est une association à but non lucratif. Notre travail est financée par les dons généreux de particuliers et d'entreprises.</p>
 <p>Nous faisons la promotion de l'open data, l'open knowledge, l'open technology et l'open science appliqués à la météorologie. <strong>Cela demande du temps et de l'argent :</strong></p>

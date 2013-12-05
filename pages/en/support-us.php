@@ -44,19 +44,25 @@ Have your name publicly displayed on our supporters page.
 <p><span style="font-size: 80%;"><input type="hidden" name="on3" value="Fiscal receipt?" /><label><input type="checkbox" name="os3" value="French citizen" /> I&#8217;m a French citizen, I want a fiscal receipt for up to 66% tax refund.</label><br><label><input type="checkbox" name="os3" value="French company" /> I&#8217;m a French company, I want a fiscal receipt for up to 60% tax refund.</label><!--<a title="Tax refunds" href="http://openmeteodata.org/index.php/donate/tax-refunds/" target="_blank">Learn more about tax refunds&#8230;</a>--></span></p>
 </form>
 <p><small>Your credit card donation will be processed by PayPal. The charge will appear as &#8220;Open Meteo Foundation&#8221; on your credit card statement.</small></p>
-<h5>Bitcoin</h5>
-<p>The Open Meteo Foundation accepts BitCoin donation.</p>
-<p>BitCoin Address : <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
-<p><img src="/img/bitcoin.png" alt="1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ"></p>
-<p><i>Since BitCoin have no legal status, we cannot deliver fiscal receipt.</i></p>
+
+<h4>Cheque</h4>
+<p>Send a cheque to: <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
+
 <h5>Wire transfer</h5>
 <p>
 Account Holder: OpenMeteoData<br />
 Bank Account Number: FR97 2004 1010 1709 5105 8S02 838<br />
 Bank Identifier Code: PSSTFRPPGRE<br />
 Bank Address: La Banque Postale &#8211; 38032 Grenoble CEDEX 1 &#8211; FRANCE</p>
-<h5>Cheque</h5>
-<p>Send a cheque to: <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
+
+
+<h4>Bitcoin</h4>
+<p>The Open Meteo Foundation accepts BitCoin donation.</p>
+<p>BitCoin Address : <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
+<p><img src="/img/bitcoin.png" alt="1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ"></p>
+<p><i>Since BitCoin have no legal status, we cannot deliver fiscal receipt.</i></p>
+
+
 <h3 id="why">Why support us?</h3>
 <p>The Open Meteo Foundation is a not-for-profit organization. We rely on generous donation from individuals and companies to support our work.</p>
 <p>We are promoting open data, open knowledge and open science in the field of meteorology. <strong>But doing this requires time and money:</strong></p>
