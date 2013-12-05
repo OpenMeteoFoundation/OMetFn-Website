@@ -121,13 +121,8 @@
 <tbody>
 <tr>
 <td align="left"><strong>Open Meteo Foundation</strong></td>
-<td align="left">118-120 rue de Rivoli, 75001 Paris, FRANCE</td>
-<td align="left">Bureau. Adresse principale de correspondance.</td>
-</tr>
-<tr>
-<td align="left"><strong>Open Meteo Foundation</strong></td>
 <td align="left">19 allée Jean Wiener, 38400 Saint-Martin-d&#8217;Hères, FRANCE</td>
-<td align="left">Siège social.</td>
+<td align="left">Adresse principale de correspondance et siège social.</td>
 </tr>
 </tbody>
 </table>
