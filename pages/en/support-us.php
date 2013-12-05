@@ -46,9 +46,10 @@ Have your name publicly displayed on our supporters page.
 <p><small>Your credit card donation will be processed by PayPal. The charge will appear as &#8220;Open Meteo Foundation&#8221; on your credit card statement.</small></p>
 
 <h4>Cheque</h4>
-<p>Send a cheque to: <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
+<p>Send a cheque to:<br>
+<strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
 
-<h5>Wire transfer</h5>
+<h4>Wire transfer</h4>
 <p>
 Account Holder: OpenMeteoData<br />
 Bank Account Number: FR97 2004 1010 1709 5105 8S02 838<br />

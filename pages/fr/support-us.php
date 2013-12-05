@@ -47,7 +47,8 @@ Faire apparaître mon nom publiquement sur la liste des donateurs.
 <p><small>Votre don par carte bancaire sera traité par PayPal. L'opération sera libellée « Open Meteo Foundation » sur votre relevé de compte.</small></p>
 
 <h4>Chèque</h4>
-<p>Vous pouvez envoyer un chèque à : <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
+<p>Vous pouvez envoyer un chèque à :<br>
+<strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
 
 
 <h4>Virement</h4>
