@@ -1,34 +1,19 @@
 <!-- %TITLE%: "Support us" -->
 <h1>Support us</h1>
+
 <p>The Open Meteo Foundation is a non-profit organization. All our work is provided openly and for free. Your support helps us continue and expand our activities.</p>
-<p><a href="#why">More about why to support us &#xbb;</a></p></blockquote>
-<h4>Contribute monthly with your credit card through PayPal.</h4>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_xclick-subscriptions" /><input type="hidden" name="business" value="2PH6MD3M2W45W" /><input type="hidden" name="lc" value="GB" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="no_shipping" value="2" /><input type="hidden" name="rm" value="1" /><input type="hidden" name="return" value="http://openmeteofoundation.org/thank-you" /><input type="hidden" name="src" value="1" /><input type="hidden" name="bn" value="PP-SubscriptionsBF:btn_subscribeCC_LG.gif:NonHostedGuest" /><input type="hidden" name="item_name" value="Monthly donation to the Open Meteo Foundation" /><input type="hidden" name="currency_code" value="EUR" /><input type="hidden" name="t3" value="M" /><input type="hidden" name="p3" value="1" />
-<select name="a3">
-<option value="3.00">&euro; 3.00 a month</option>
-<option value="5.00">&euro; 5.00 a month</option>
-<option selected="selected" value="10.00">&euro; 10.00 a month</option>
-<option value="20.00">&euro; 20.00 a month</option>
-<option value="30.00">&euro; 30.00 a month</option>
-<option value="50.00">&euro; 50.00 a month</option>
-</select>
-<p>
-<input type="hidden" name="on1" value="Publicly display name?" />
-<label>
-<input type="checkbox" checked="checked" name="os1" value="Publicly display name" />
-Have your name publicly displayed on our supporters page.
-</label>
-</p>
-<p>
-<input type="hidden" name="on2" value="Have a thought to share?" /><label>Want to share a message with the world?</label><br><input type="text" maxlength="200" name="os2" />
-</p>
-<p>
-<input type="submit" value="Subscribe" />
-</p>
-<p><span style="font-size: 80%;"><input type="hidden" name="on3" value="Fiscal receipt?" /><label><input type="checkbox" name="os3" value="French citizen" /> I&#8217;m a French citizen, I want a fiscal receipt for up to 66% tax refund.</label><br>
-<label><input type="checkbox" name="os3" value="French company" /> I&#8217;m a French company, I want a fiscal receipt for up to 60% tax refund.</label><!--<a title="Tax refunds" href="http://openmeteodata.org/index.php/donate/tax-refunds/" target="_blank">Learn more about tax refunds&#8230;</a>--></span></p>
-</form>
-<h4>Make a one-off donation with your credit card through PayPal</h4>
+
+<p><a href="#why">More about why to support us &#xbb;</a></p>
+
+<ul>
+<li><a href="#paypal">Credit Card / PayPal</a></li>
+<li><a href="#cheque">Cheque</a></li>
+<li><a href="#wire-transfer">Wire Transfert</a></li>
+<li><a href="#bitcoin">Bitcoin</a></li>
+</ul>
+
+
+<h4 id="#paypal">Credit Card / PayPal</h4>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="2PH6MD3M2W45W" /><input type="hidden" name="lc" value="GB" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="no_shipping" value="2" /><input type="hidden" name="return" value="http://openmeteodata.org/index.php/donate/thank-you/" /><input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHosted" /><input type="hidden" name="item_name" value="Donation to the Open Meteo Foundation" /><input type="hidden" name="currency_code" value="EUR" />
 <p>
 <select name="amount">
@@ -45,11 +30,11 @@ Have your name publicly displayed on our supporters page.
 </form>
 <p><small>Your credit card donation will be processed by PayPal. The charge will appear as &#8220;Open Meteo Foundation&#8221; on your credit card statement.</small></p>
 
-<h4>Cheque</h4>
+<h4 id="#cheque">Cheque</h4>
 <p>Send a cheque to:<br>
 <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
 
-<h4>Wire transfer</h4>
+<h4 id="wire-transfer">Wire transfer</h4>
 <p>
 Account Holder: OpenMeteoData<br />
 Bank Account Number: FR97 2004 1010 1709 5105 8S02 838<br />
@@ -57,11 +42,11 @@ Bank Identifier Code: PSSTFRPPGRE<br />
 Bank Address: La Banque Postale &#8211; 38032 Grenoble CEDEX 1 &#8211; FRANCE</p>
 
 
-<h4>Bitcoin</h4>
-<p>The Open Meteo Foundation accepts BitCoin donation.</p>
-<p>BitCoin Address : <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
+<h4 id="bitcoin">Bitcoin</h4>
+<p>The Open Meteo Foundation accepts Bitcoins donation.</p>
+<p>Bitcoin Address : <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
 <p><img src="/img/bitcoin.png" alt="1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ"></p>
-<p><i>Since BitCoin have no legal status, we cannot deliver fiscal receipt.</i></p>
+<p><i>Since Bitcoin have no legal status, we cannot deliver fiscal receipt.</i></p>
 
 
 <h3 id="why">Why support us?</h3>
