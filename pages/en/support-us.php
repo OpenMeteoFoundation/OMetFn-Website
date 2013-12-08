@@ -36,8 +36,8 @@ Bank Address: La Banque Postale &#8211; 38032 Grenoble CEDEX 1 &#8211; FRANCE</p
 
 <h4 id="bitcoin">Bitcoin</h4>
 <p>The Open Meteo Foundation accepts Bitcoins donation.</p>
-<p>Bitcoin Address : <b>1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ</b></p>
-<p><img src="/img/bitcoin.png" alt="1FpxFgrVPGWELKz7xx1Y4R3XoZwoRaENjQ"></p>
+<p>Bitcoin Address : <b><a href="bitcoin:18wKHQ7ZKAnR64BDbSp2xqkMdBRqLF6WPD?label=Open+Meteo+Foundation+Donation">18wKHQ7ZKAnR64BDbSp2xqkMdBRqLF6WPD</a></b></p>
+<p><img src="/img/bitcoin.png" alt="18wKHQ7ZKAnR64BDbSp2xqkMdBRqLF6WPD"></p>
 <p><i>Since Bitcoin have no legal status, we cannot deliver fiscal receipt.</i></p>
 
 
