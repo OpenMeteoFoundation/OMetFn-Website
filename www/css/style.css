@@ -254,3 +254,6 @@ img {
 #lang:hover img {
   border: 1px white solid;
 }
+p, ul, table {
+font-family: sans-serif;
+}
