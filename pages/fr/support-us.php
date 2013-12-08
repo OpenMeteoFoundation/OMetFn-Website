@@ -17,16 +17,8 @@
 <h4 id="paypal">Carte Bancaire / PayPal</h4>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="2PH6MD3M2W45W" /><input type="hidden" name="lc" value="FR" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="no_shipping" value="2" /><input type="hidden" name="return" value="http://fr.openmeteofoundation.org/thank-you" /><input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHosted" /><input type="hidden" name="item_name" value="Don à l'Open Meteo Foundation" /><input type="hidden" name="currency_code" value="EUR" />
 <p>
-<select name="amount">
-<option value="3.00">3,00 €</option>
-<option value="5.00">5,00 €</option>
-<option selected="selected" value="10.00">10,00 €</option>
-<option value="20.00">20,00 €</option>
-<option value="30.00">30,00 €</option>
-<option value="50.00">50,00 €</option>
-</select>
+Montant : <input name="amount" onchange="this.value=this.value.replace(',', '.')">€  <input type="submit" value="Faire un don" /></p>
 </p>
-<p><input type="submit" value="Faire un don" /></p>
 <p><span style="font-size: 80%;"><input type="hidden" name="on3" value="Fiscal receipt ?" /><label><input type="checkbox" name="os3" value="French citizen" /> Je suis résident Français. Je souhaite un reçu fiscal, pour récupérer jusqu'à 66% du don en crédit d'impôt.</label><br>
 <label><input type="checkbox" name="os3" value="French company" />  Je suis une entreprise Française. Je souhaite un reçu fiscal, pour récupérer jusqu'à 60% du don en crédit d'impôt.</label><!--<a title="Tax refunds" href="http://openmeteodata.org/index.php/donate/tax-refunds/" target="_blank">Learn more about tax refunds&#8230;</a>--></span></p>
 </form>

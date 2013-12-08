@@ -13,24 +13,16 @@
 </ul>
 
 
-<h4 id="#paypal">Credit Card / PayPal</h4>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="2PH6MD3M2W45W" /><input type="hidden" name="lc" value="GB" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="no_shipping" value="2" /><input type="hidden" name="return" value="http://openmeteodata.org/index.php/donate/thank-you/" /><input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHosted" /><input type="hidden" name="item_name" value="Donation to the Open Meteo Foundation" /><input type="hidden" name="currency_code" value="EUR" />
+<h4 id="paypal">Credit Card / PayPal</h4>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="check_amount()"><input type="hidden" name="cmd" value="_donations" /><input type="hidden" name="business" value="2PH6MD3M2W45W" /><input type="hidden" name="lc" value="GB" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="no_shipping" value="2" /><input type="hidden" name="return" value="http://openmeteodata.org/index.php/donate/thank-you/" /><input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHosted" /><input type="hidden" name="item_name" value="Donation to the Open Meteo Foundation" /><input type="hidden" name="currency_code" value="EUR" />
 <p>
-<select name="amount">
-<option value="2.00">&euro; 2.00</option>
-<option value="5.00">&euro; 5.00</option>
-<option selected="selected" value="10.00">&euro; 10.00</option>
-<option value="20.00">&euro; 20.00</option>
-<option value="50.00">&euro; 50.00</option>
-<option value="100.00">&euro; 100.00</option>
-</select>
-</p>
-<p><input type="submit" value="Donate" /></p>
+Amount : € <input name="amount" onchange="this.value=this.value.replace(',', '.')"> <input type="submit" value="Donate" /></p>
 <p><span style="font-size: 80%;"><input type="hidden" name="on3" value="Fiscal receipt?" /><label><input type="checkbox" name="os3" value="French citizen" /> I&#8217;m a French citizen, I want a fiscal receipt for up to 66% tax refund.</label><br><label><input type="checkbox" name="os3" value="French company" /> I&#8217;m a French company, I want a fiscal receipt for up to 60% tax refund.</label><!--<a title="Tax refunds" href="http://openmeteodata.org/index.php/donate/tax-refunds/" target="_blank">Learn more about tax refunds&#8230;</a>--></span></p>
 </form>
-<p><small>Your credit card donation will be processed by PayPal. The charge will appear as &#8220;Open Meteo Foundation&#8221; on your credit card statement.</small></p>
+<p><small>Your credit card donation will be processed by PayPal. The charge will appear as &#8220;OpenMeteoData&#8221; on your credit card statement.</small></p>
 
-<h4 id="#cheque">Cheque</h4>
+<h4 id="cheque">Cheque</h4>
 <p>Send a cheque to:<br>
 <strong>OpenMeteoData</strong>, 19 allée Jean Wiener, 38400 Saint Martin d'Hères, FRANCE</p>
 
