@@ -7,9 +7,13 @@
   
 <!--[if IE ]><body class="ie"><![endif]-->
 <!--[if !IE]>--><body><!--<![endif]-->
-    
-    <a href="http://openmeteofoundation.org/<?php echo $page; ?>" title="Switch to English" id="lang"><img src="/img/flag_en.png"></a>
-    <a href="/support-us" id="support-bar">Soutenez-nous !</a>
+
+   <div id="lang"> 
+     <a href="http://openmeteofoundation.org/<?php echo $page; ?>" title="Switch to English"><img src="/img/flag_en.png"></a>
+     <a href="http://de.openmeteofoundation.org/<?php echo $page; ?>" title="zur deutschen Version wechseln"><img src="/img/flag_de.png"></a>
+   </div>
+   
+   <a href="/support-us" id="support-bar">Soutenez-nous !</a>
     
     <div id="header">
     

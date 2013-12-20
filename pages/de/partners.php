@@ -9,25 +9,25 @@
   <img alt="logo-teclib" src="/files/logo-teclib.png" style="width: 200px"/></a>
 </td>
 <td>
-<p><strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a></strong> ist ein IT-Unternehmen mit Standorten in Paris, Chartres, Caen, Montpellier und Colmar. Sie sind spezialisiert auf die Entwicklung und den Einsatz von Open-Source-Lösungen.</p>
+<p><strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a></strong> ist ein IT-Unternehmen mit Standorten in Paris, Chartres, Caen, Montpellier und Colmar. Sie sind spezialisiert auf die Entwicklung und den Einsatz von Open-Source-LÃ¶sungen.</p>
 <p>
-Als stolzer Verfechter einer offenen Welt stellt uns <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> Speicherplatz und Bandbreite für unsere EDV-Infrastruktur zur Verfügung.</strong>
+Als stolzer Verfechter einer offenen Welt stellt uns <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> Speicherplatz und Bandbreite fÃ¼r unsere EDV-Infrastruktur zur VerfÃ¼gung.</strong>
 </p>
 </tr>
 </tr>
 <tr>
 <td class="center"><a href="http://www.supair.com" target="_blank"><img alt="logo-supair" src="/files/logo-supair.png" style="width: 200px"/></a></td>
 <td>
-<p><strong><a href="http://www.supair.com" target="_blank">SUP&#8217;Air</a></strong>, ein französisches Unternehmen, ist der weltweit führende Hersteller von Gurtsystemen für Paraglider.</p>
-<p>Seit 1982 treiben sie neue Technologien für das freie Fliegen voran. Überzeugt von den Vorteilen, die freie Wetterdaten den Piloten bieten, hat <strong><a href="http://www.supair.com" target="_blank">SUP&#8217;Air</a> einen großen Anteil zur Finanzierung der HPC Cluster, die unsere Vorhersagen optimieren, beigetragen.</strong></p>
+<p><strong><a href="http://www.supair.com" target="_blank">SUP&#8217;Air</a></strong>, ein franzÃ¶sisches Unternehmen, ist der weltweit fÃ¼hrende Hersteller von Gurtsystemen fÃ¼r Paraglider.</p>
+<p>Seit 1982 treiben sie neue Technologien fÃ¼r das freie Fliegen voran. Ãœberzeugt von den Vorteilen, die freie Wetterdaten den Piloten bieten, hat <strong><a href="http://www.supair.com" target="_blank">SUP&#8217;Air</a> einen groÃŸen Anteil zur Finanzierung der HPC Cluster, die unsere Vorhersagen optimieren, beigetragen.</strong></p>
 </td>
 </tr>
 <tr>
 <td class="center"><a href="http://www.ffvl.fr" target="_blank"><img src="/files/logo-ffvl.png" alt="logo-ffvl" style="width: 100px"/></a></td>
 <td>
 <p><strong><a href="http://www.ffvl.fr" target="_blank">FFVL</a></strong>, ist eine nationale Vereinigung der freien Flieger in Frankreich und umfasste mehr als 40&nbsp;000 Mitglieder im Jahr 2012.</p>
-<p>Nach einem Jahr der Partnerschaft steht fest, dass freie Wetterdaten essenziell für den Luftsport sind, da sie sowohl die Sicherheit beim Fliegen verbessern, als auch die Möglichkeiten bieten, das Wetter besser zu verstehen und geeigenete Bedingungen für rekordverdächtige Leistungen zu erkennen.</p>
-<p><strong>Neben finanzieller Unterstützung ermöglicht uns <a href="http://www.ffvl.fr" target="_blank">FFVL</a> auch den engen Kontakt zu den Piloten</strong>.</p>
+<p>Nach einem Jahr der Partnerschaft steht fest, dass freie Wetterdaten essenziell fÃ¼r den Luftsport sind, da sie sowohl die Sicherheit beim Fliegen verbessern, als auch die MÃ¶glichkeiten bieten, das Wetter besser zu verstehen und geeigenete Bedingungen fÃ¼r rekordverdÃ¤chtige Leistungen zu erkennen.</p>
+<p><strong>Neben finanzieller UnterstÃ¼tzung ermÃ¶glicht uns <a href="http://www.ffvl.fr" target="_blank">FFVL</a> auch den engen Kontakt zu den Piloten</strong>.</p>
 </td>
 </tr>
 </table>

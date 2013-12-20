@@ -3,7 +3,6 @@
 
 <h2>
   We produce open weather forecast for Europe
-  <img src="/img/coming-world.png" style="position: absolute; right: -80px; top: 16px;" alt="(coming soon to the whole world)">
 </h2>
 <!--<h3><a href="http://openmeteoforecast.org" target="_blank">http://openmeteoforecast.org</a></h3>-->
 <ul class="buttons">

@@ -3,7 +3,6 @@
 
 <h2>
   Nous calculons et mettons à disposition des prévisions météo ouvertes pour toute l'Europe
-  <img src="/img/bientot-monde.png" style="position: absolute; right: -80px; top: 36px;" alt="(bientôt le monde)">
 </h2>
 <!--<h3><a href="http://openmeteoforecast.org" target="_blank">http://openmeteoforecast.org</a></h3>-->
 <ul class="buttons">

@@ -3,12 +3,12 @@
       <div id="intro">
       
 	<h2>
-	  <b>Wetter ist der Schlüssel</b> zu einer sicheren and nachhaltigeren Welt.<br>
+	  <b>Wetter ist der SchlÃ¼ssel</b> zu einer sicheren and nachhaltigeren Welt.<br>
 	  <b>Offenheit ist der Weg...</b>
 	</h2>
 	<h3>
-	  Wir fördern freie Daten, freie Wissenschaft, freie Technologie und freies Wissen, um
-	  die Meteorologie in der Gesellschaft zu etablieren und Innovationen anzustoßen.
+	  Wir fÃ¶rdern freie Daten, freie Wissenschaft, freie Technologie und freies Wissen, um
+	  die Meteorologie in der Gesellschaft zu etablieren und Innovationen anzustoÃŸen.
 	</h3>
 	
 	<ul class="buttons">
@@ -16,7 +16,7 @@
 	    <a href="/about-us">Lern uns kennen</a>
 	  </li>
 	  <li>
-	    <a href="/projects">Durchstöber unsere Projekte</a>
+	    <a href="/projects">DurchstÃ¶ber unsere Projekte</a>
 	  </li>
 	  <li>
 	    <a href="/get-involved">Mach mit!</a>

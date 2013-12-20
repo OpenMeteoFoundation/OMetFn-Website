@@ -1,13 +1,13 @@
 <!-- %TITLE%: "Kontakt" -->
 <h1>Kontakt</h1>
 <h2>Kontakt per E-Mail</h2>
-<p><strong>Für allgemeine Anfragen sende eine E-Mail an info[at]ometfn.org und für Presseanfragen an press[at]ometfn.org</strong></p>
-<p>Wenn möglich bevorzugen wir die Kommunikation über unser <a href="http://forum.openmeteodata.org/" target="_blank">Diskussionsforum</a>. Dies hilft uns dabei, die Konversation öffentlich und mit Möglichkeit zur Teilnahme zu führen und erlaubt es, die Mitglieder der Open Meteo Foundation Community über die aktuellen Aktivitäten zu informieren. Sollte dennoch eine bestimmte Frage an unser Team oder unser Netzwerk bestehen, bitten wir um die Benutzung untenstehender E-Mails:</p>
+<p><strong>FÃ¼r allgemeine Anfragen sende eine E-Mail an info[at]ometfn.org und fÃ¼r Presseanfragen an press[at]ometfn.org</strong></p>
+<p>Wenn mÃ¶glich bevorzugen wir die Kommunikation Ã¼ber unser <a href="http://forum.openmeteodata.org/" target="_blank">Diskussionsforum</a>. Dies hilft uns dabei, die Konversation Ã¶ffentlich und mit MÃ¶glichkeit zur Teilnahme zu fÃ¼hren und erlaubt es, die Mitglieder der Open Meteo Foundation Community Ã¼ber die aktuellen AktivitÃ¤ten zu informieren. Sollte dennoch eine bestimmte Frage an unser Team oder unser Netzwerk bestehen, bitten wir um die Benutzung untenstehender E-Mails:</p>
 <table>
 <thead>
 <tr>
 <th align="left">Projekt/Bereich</th>
-<th align="left">Kontaktmöglichkeit</th>
+<th align="left">KontaktmÃ¶glichkeit</th>
 <th align="left">Kommentar</th>
 </tr>
 </thead>
@@ -15,32 +15,32 @@
 <tr>
 <td align="left"><strong>Allgemeine Anfragen</strong></td>
 <td align="left">info [at] ometfn.org</td>
-<td align="left">Bevor du an diese E-Mail-Adresse schreibst, scrolle bitte nach unten und prüfe, ob eine passendere Kontaktmöglichkeit für dein spezielles Thema besteht. Das genaue Auswählen des zuständigen Kontaktbereichs verkürzt die Antwortzeit erheblich! Falls du Kontakt zu einem bestimmten Projekt, einer Veranstaltung oder eine Aktivität aufnehmen möchtest, besuche bitte die entsprechende Projektseite.</td>
+<td align="left">Bevor du an diese E-Mail-Adresse schreibst, scrolle bitte nach unten und prÃ¼fe, ob eine passendere KontaktmÃ¶glichkeit fÃ¼r dein spezielles Thema besteht. Das genaue AuswÃ¤hlen des zustÃ¤ndigen Kontaktbereichs verkÃ¼rzt die Antwortzeit erheblich! Falls du Kontakt zu einem bestimmten Projekt, einer Veranstaltung oder eine AktivitÃ¤t aufnehmen mÃ¶chtest, besuche bitte die entsprechende Projektseite.</td>
 </tr>
 <tr>
 <td align="left"><strong>Presseanfragen</strong></td>
 <td align="left">press [at] ometfn.org</td>
-<td align="left">Für alle Presseanfragen. Falls du mit einem speziellen Projektbereich in Kontakt treten möchtest, besuche bitte die entsprechende Projektseite.</td>
+<td align="left">FÃ¼r alle Presseanfragen. Falls du mit einem speziellen Projektbereich in Kontakt treten mÃ¶chtest, besuche bitte die entsprechende Projektseite.</td>
 </tr>
 <tr>
 <td align="left"><strong>Allgemeine Diskussion</strong></td>
 <td align="left"><a href="http://forum.openmeteodata.org" target="_blank">Diskussionsforum</a></td>
-<td align="left">Falls du eine Idee, einen Kommentar oder ein Diskussionsthema hast möchten wir dich dazu ermuten, unser <a href="http://forum.openmeteodata.org" target="_blank">Diskussionsforum</a> zu benutzen.</td>
+<td align="left">Falls du eine Idee, einen Kommentar oder ein Diskussionsthema hast mÃ¶chten wir dich dazu ermuten, unser <a href="http://forum.openmeteodata.org" target="_blank">Diskussionsforum</a> zu benutzen.</td>
 </tr>
 <tr>
-<td align="left"><strong>Anfragen zu Vorträgen und Interviews</strong></td>
+<td align="left"><strong>Anfragen zu VortrÃ¤gen und Interviews</strong></td>
 <td align="left">speakers [at] ometfn.org</td>
-<td align="left">Sende eine E-Mail an diese Adresse, falls du Interesse daran hast, dass ein Repräsentant von OpenMeteoData einen Vortrag hält oder an einer Veranstaltung teilnimmt.</td>
+<td align="left">Sende eine E-Mail an diese Adresse, falls du Interesse daran hast, dass ein ReprÃ¤sentant von OpenMeteoData einen Vortrag hÃ¤lt oder an einer Veranstaltung teilnimmt.</td>
 </tr>
 <tr>
 <td align="left"><strong>Blog-Inhalte</strong></td>
 <td align="left">blog [at] ometfn.org</td>
-<td align="left">Sende eine E-Mail an diese Adresse, falls du etwas für den OpenMeteoData Blog schreiben möchtest.</td>
+<td align="left">Sende eine E-Mail an diese Adresse, falls du etwas fÃ¼r den OpenMeteoData Blog schreiben mÃ¶chtest.</td>
 </tr>
 <tr>
 <td align="left"><strong>Mitmachen</strong></td>
 <td align="left">getinvolved [at] ometfn.org</td>
-<td align="left">Sende eine E-Mail an diese Adresse, falls du dich in irgendeiner Weise an der Community und dem Projekt beteiligen möchtest.</td>
+<td align="left">Sende eine E-Mail an diese Adresse, falls du dich in irgendeiner Weise an der Community und dem Projekt beteiligen mÃ¶chtest.</td>
 </tr>
 <tr>
 <td align="left"><strong>Partnerschaft &#038; Sponsoring</strong></td>
@@ -93,7 +93,7 @@
 </tr>
 </table>
 <h2>IRC Channels</h2>
-<p>Wir befinden uns oft im IRC, um unseren Projekte und Aktivitäten im Live-Chat zu besprechen. Du bist herzlich eingeladen, einen unserer Räume zu betreten, indem du einen Standard-IRC-Client oder einen Browser-Client (<a href="http://webchat.freenode.net/?channels=OpenMeteo">freenode webchat client</a>) benutzt.</p>
+<p>Wir befinden uns oft im IRC, um unseren Projekte und AktivitÃ¤ten im Live-Chat zu besprechen. Du bist herzlich eingeladen, einen unserer RÃ¤ume zu betreten, indem du einen Standard-IRC-Client oder einen Browser-Client (<a href="http://webchat.freenode.net/?channels=OpenMeteo">freenode webchat client</a>) benutzt.</p>
 <table>
 <thead>
 <tr>

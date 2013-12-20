@@ -1,5 +1,5 @@
-<!-- %TITLE%: "404 Nicht verfügbar" -->
+<!-- %TITLE%: "404 Nicht verfÃ¼gbar" -->
 
-<h1>404 Nicht verfügbar</h1>
+<h1>404 Nicht verfÃ¼gbar</h1>
 <p>Oops :(</p>
-<p>Der gewünschte Inhalt ist nicht vorhanden.</p>
+<p>Der gewÃ¼nschte Inhalt ist nicht vorhanden.</p>

@@ -11,10 +11,12 @@ if ($_GET['page'] == '') {
 $lang='en';
 if (substr($_SERVER['HTTP_HOST'], 0, 2) == 'fr') {
   $lang='fr';
+} else if (substr($_SERVER['HTTP_HOST'], 0, 2) == 'de') {
+  $lang='de';
 }
 
 // temp dataconnexions
-$cache_dir="../cache/$lang/";
+$cache_dir="../cache/$lang-";
 $php_cache_file=$cache_dir.$page.'.php';
 if (file_exists($php_cache_file)) {
   include($php_cache_file);
@@ -40,7 +42,7 @@ if ($page == '404') {
   header('HTTP/1.0 404 Not Found');
 }
 
-$cache_dir="../cache/$lang/";
+$cache_dir="../cache/$lang-";
 $php_cache_file=$cache_dir.$page.'.php';
 
 

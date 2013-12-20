@@ -8,8 +8,10 @@
 <!--[if IE ]><body class="ie"><![endif]-->
 <!--[if !IE]>--><body><!--<![endif]-->
 
-    <a href="http://fr.openmeteofoundation.org/<?php echo $page; ?>" title="Version Française" id="lang"><img src="/img/flag_fr.png"></a>
-	<a href="http://openmeteofoundation.org/<?php echo $page; ?>" title="Switch to English" id="lang"><img src="/img/flag_en.png"></a>
+    <div id="lang"> 
+      <a href="http://openmeteofoundation.org/<?php echo $page; ?>" title="Switch to English"><img src="/img/flag_en.png"></a>
+      <a href="http://fr.openmeteofoundation.org/<?php echo $page; ?>" title="Version Française"><img src="/img/flag_fr.png"></a>
+    </div>
     <a href="/support-us" id="support-bar"> Unterstütz uns</a>
     
     <div id="header">

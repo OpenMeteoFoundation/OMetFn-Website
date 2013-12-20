@@ -245,13 +245,13 @@ img {
 #lang {
   position: absolute;
   right: 10px;
-  top: 10px;
+  top: 5px;
   z-index: 100;
 }
 #lang img {
   border: 1px black solid;
 }
-#lang:hover img {
+#lang a:hover img {
   border: 1px white solid;
 }
 p, ul, table {
