@@ -120,11 +120,6 @@
 <tbody>
 <tr>
 <td align="left"><strong>Open Meteo Foundation</strong></td>
-<td align="left">118-120 rue de Rivoli, 75001 Paris, FRANCE</td>
-<td align="left">Hauptadresse für die allgemeine Korrespondenz.</td>
-</tr>
-<tr>
-<td align="left"><strong>Open Meteo Foundation</strong></td>
 <td align="left">19 all&eacute;e Jean Wiener, 38400 Saint-Martin-d&#8217;H&egrave;res, FRANCE</td>
 <td align="left">Eingetragener Vereinssitz.</td>
 </tr>

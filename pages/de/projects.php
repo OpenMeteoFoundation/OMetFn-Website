@@ -7,8 +7,8 @@
 </h2>
 <!--<h3><a href="http://openmeteoforecast.org" target="_blank">http://openmeteoforecast.org</a></h3>-->
 <ul class="buttons">
-  <li><a href="http://wiki.openmeteodata.org/wiki/OMD_Forecasts" target="_blank">Erfahre mehr</a></li>
-  <li><a href="http://wiki.openmeteodata.org/wiki/OMD_Forecasts/data" target="_blank">Hol dir die Daten</a></li>
+  <li><a href="https://openmeteoforecast.org/" target="_blank">Erfahre mehr</a></li>
+  <li><a href="https://openmeteoforecast.org/wiki/Data" target="_blank">Hol dir die Daten</a></li>
   <!--<li><a href="#">Create your own weather map</a></li>
   <li><a href="#">Help us make it better</a></li>-->
 </ul>

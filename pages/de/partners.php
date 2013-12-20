@@ -11,7 +11,7 @@
 <td>
 <p><strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a></strong> ist ein IT-Unternehmen mit Standorten in Paris, Chartres, Caen, Montpellier und Colmar. Sie sind spezialisiert auf die Entwicklung und den Einsatz von Open-Source-Lösungen.</p>
 <p>
-As proud supporter of the open world, <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> stellt uns Speicherplatz und Bandbreite für unsere EDV-Infrastruktur zur Verfügung.</strong>
+Als stolzer Verfechter einer offenen Welt stellt uns <strong><a href="http://www.teclib.com" target="_blank">Teclib&#8217;</a> Speicherplatz und Bandbreite für unsere EDV-Infrastruktur zur Verfügung.</strong>
 </p>
 </tr>
 </tr>
